@@ -1,5 +1,5 @@
-Author: yyyy.
+Author: xxxx. & yyyy.
 
 E-mail: ermeifu2299@163.com
 
-Here are my LeetCode study notes.
+Here are my LeetCode study notes with his girlfriend.
